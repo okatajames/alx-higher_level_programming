@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 def uppercase(string):
     for char in string:
         u_char = chr(ord(char) - 32) if ord('a')

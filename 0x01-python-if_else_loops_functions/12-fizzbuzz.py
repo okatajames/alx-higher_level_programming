@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 i = [p for p in range(1, 100)]
 print(i)
 for integ in i:
