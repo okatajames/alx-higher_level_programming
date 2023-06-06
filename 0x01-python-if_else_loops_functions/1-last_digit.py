@@ -13,6 +13,6 @@ if number > 0:
 elif number < 0:
     c = b + a
     if int(c) == 0:
-        print(f"Last digit of {number} is {c} and is 0")
+        print(f"Last digit of {number} is {a} and is 0")
     else:
         print(f"Last digit of {number} is {c} and is less than 6 and not 0")
