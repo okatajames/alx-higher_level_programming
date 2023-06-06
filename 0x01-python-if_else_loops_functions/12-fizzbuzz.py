@@ -2,10 +2,10 @@
 i = [p for p in range(1, 100)]
 for integ in i:
     if integ % 3 == 0 and integ % 5 == 0:
-        print("FizzBuzz$")
+        print("FizzBuzz")
     elif integ % 3 == 0:
-        print("Fizz$")
+        print("Fizz")
     elif integ % 5 == 0:
-        print("Buzz$")
+        print("Buzz")
     else:
-        print(f"{integ}$")
+        print(integ)
