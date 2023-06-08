@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 if __name__ == "__main__":
-    """ Add all arguments."""
+    """ Add all args"""
     import sys
 
     result = 0
