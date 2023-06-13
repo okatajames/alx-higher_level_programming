@@ -3,7 +3,7 @@
 import sys
 
 if __name__ == "__main__":
-    
+
     """Func for basic math operations but with exceptions"""
 
     from calculator_1 import add, sub, mul, div
